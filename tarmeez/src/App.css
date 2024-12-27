@@ -48,3 +48,15 @@ select{
     margin-top:10px;
     font-weight: bold;
 }
+
+body button:hover{
+cursor: pointer;
+scale: 0.9;
+transition: all 0.2s ease-in-out;
+
+}
+
+body button:active{
+
+    background-color: aqua;
+}
