@@ -1,11 +1,12 @@
-import './App.css'
+
 import Bankform from './components/Bankform'
+import './App.css'
 function App() {
 
   return (
-    <>
+    <div >
     <Bankform/>
-    </>
+    </div>
   )
 }
 
